@@ -1,4 +1,4 @@
-# Honey-Share
+# Honey Share
 (Antisyphon training lab from Cyber Deception/Active Defense)
 ## Honey Share
 - Obtain you Kali IP, become root (```sudo su -```), and navigate to ```/opt/impacket/examples```
